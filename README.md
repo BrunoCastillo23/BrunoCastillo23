@@ -1,4 +1,13 @@
-## Hi there 👋
+### 👋 Hola, soy Bruno Castillo
+Desarrollador web en formación desde Perú 🇵🇪.  
+Apasionado por crear soluciones prácticas con tecnologías web.
+
+🔥 Actualmente aprendiendo: TypeScript, Python y MongoDB  
+💡 Me estoy especializando en: Desarrollo Web Frontend Y Backend
+🎯 Objetivo: Convertirme en desarrollador web profesional  
+
+📌 Participante del DevFest Lima Community Edition 2025  
+📚 Conocimientos en: HTML, CSS, JavaScript, PHP, Mysql, Java, Power BI, Excel, Notion.  
 
 <!--
 **BrunoCastillo23/BrunoCastillo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,9 +10,9 @@ Apasionado por crear soluciones prácticas con tecnologías web.
 
 ### 👨🏻‍💻 Tecnologías
 #### Lenguajes
-Lenguajes Marcado & Estilos
+Lenguajes de Estilos & Marcado
 
-![Static Badge](https://img.shields.io/badge/HTML-e4542d?style=for-the-badge&logo=Html5&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/XML-f67a09?style=for-the-badge&logo=XML&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/HTML-e4542d?style=for-the-badge&logo=Html5&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/XML-f67a09?style=for-the-badge&logo=XML&logoColor=white&logoSize=auto)
 
 Lenguajes Programación Dinámicos
 
@@ -36,7 +36,8 @@ Lenguajes Programación Estáticos
 
 ![Static Badge](https://img.shields.io/badge/MySQL-123963?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto)
 
-![Visitas](https://komarev.com/ghpvc/?username=BrunoCastilloDev&color=blue)
+![Visitas](https://komarev.com/ghpvc/?username=BrunoCastilloDev&label=Visitas&color=0A66C2&style=for-the-badge&logo=eye&logoColor=white)
+
 <!--
 **BrunoCastillo23/BrunoCastillo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

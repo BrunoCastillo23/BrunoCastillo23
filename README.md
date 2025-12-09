@@ -1,4 +1,4 @@
-### 👋 Hola, soy Bruno Castillo
+## 👋 Hola, soy Bruno Castillo
 Desarrollador web en formación desde Perú 🇵🇪.  
 Apasionado por crear soluciones prácticas con tecnologías web.
 
@@ -9,7 +9,7 @@ Apasionado por crear soluciones prácticas con tecnologías web.
 📌 Participante del DevFest Lima Community Edition 2025
 
 ### 👨🏻‍💻 Tecnologías
-## Lenguajes
+#### Lenguajes
 Lenguajes Marcado & Estilos
 
 ![Static Badge](https://img.shields.io/badge/HTML-e4542d?style=for-the-badge&logo=Html5&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/XML-f67a09?style=for-the-badge&logo=XML&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white&logoSize=auto)
@@ -22,7 +22,7 @@ Lenguajes Programación Estáticos
 
 ![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=auto&color=ED8B00&cacheSeconds=3600&link=https%3A%2F%2Fwww.java.com%2F)
 
-## 🧰🛠️ Herramientas
+#### 🧰🛠️ Herramientas
 
 🔗 Control de Versiones
 

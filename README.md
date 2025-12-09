@@ -10,7 +10,7 @@ Apasionado por crear soluciones prácticas con tecnologías web.
 📚 Conocimientos en: HTML, CSS, JavaScript, PHP, Mysql, Java, Power BI, Excel, Notion.  
 
 ### 🛠 Tecnologías
-![Static Badge](https://img.shields.io/badge/HTML-red) | ![Static Badge](https://img.shields.io/badge/css-blue) | ![Static Badge](https://img.shields.io/badge/JavaScript-yellow) | ![Static Badge](https://img.shields.io/badge/PHP-blue)
+![Static Badge](https://img.shields.io/badge/HTML-red)  ![Static Badge](https://img.shields.io/badge/CSS-blue)  ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)  ![Static Badge](https://img.shields.io/badge/PHP-blue)
 
 
 

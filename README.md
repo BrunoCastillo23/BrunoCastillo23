@@ -9,6 +9,10 @@ Apasionado por crear soluciones prácticas con tecnologías web.
 📌 Participante del DevFest Lima Community Edition 2025  
 📚 Conocimientos en: HTML, CSS, JavaScript, PHP, Mysql, Java, Power BI, Excel, Notion.  
 
+### 🛠 Tecnologías
+![Static Badge](https://img.shields.io/badge/HTML-red)
+
+
 <!--
 **BrunoCastillo23/BrunoCastillo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

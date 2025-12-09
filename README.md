@@ -10,7 +10,7 @@ Apasionado por crear soluciones prácticas con tecnologías web.
 📚 Conocimientos en: HTML, CSS, JavaScript, PHP, Mysql, Java, Power BI, Excel, Notion.  
 
 ### 🛠 Tecnologías
-![Static Badge](https://img.shields.io/badge/HTML-red)  ![Static Badge](https://img.shields.io/badge/CSS-blue)  ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)  ![Static Badge](https://img.shields.io/badge/PHP-blue)
+![Static Badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white) ![Static Badge](https://img.shields.io/badge/JavaSript-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&cacheSeconds=3600) ![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white&logoSize=auto&cacheSeconds=3600) ![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=auto&color=ED8B00&cacheSeconds=3600&link=https%3A%2F%2Fwww.java.com%2F)
 
 
 

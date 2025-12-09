@@ -16,7 +16,7 @@ Lenguajes Marcado & Estilos
 
 Lenguajes Programación Dinámicos
 
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&cacheSeconds=3600) ![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white&logoSize=auto&cacheSeconds=3600) ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&cacheSeconds=3600) ![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white&logoSize=auto&cacheSeconds=3600) ![Static Badge](https://img.shields.io/badge/PYTHON-0d3a63?style=for-the-badge&logo=Python&logoColor=white)
 
 Lenguajes Programación Estáticos
 
@@ -30,7 +30,7 @@ Lenguajes Programación Estáticos
 
 🧰 IDEs
 
-![Static Badge](https://img.shields.io/badge/Android%20Studio-4086f4?style=for-the-badge&logo=Android&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=vscode)
+![Static Badge](https://img.shields.io/badge/ANDROID%20STUDIO-3add85?style=for-the-badge&logo=Android&logoColor=white) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-25a9f3?style=for-the-badge&logoColor=white)
 
 📊 Bases de Datos
 
